@@ -25,3 +25,9 @@ dist-ssr
 
 # Archivo de desarrollo y progreso
 DESARROLLO.md
+
+# Variables de entorno
+.env
+.env.local
+.env.production
+.env.development
