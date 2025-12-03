@@ -1,4 +1,4 @@
-import { FaUsers, FaTaxi, FaChartLine } from 'react-icons/fa';
+import { FaUsers, FaTaxi } from 'react-icons/fa';
 
 export default function HomePage() {
   return (
